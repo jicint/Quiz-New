@@ -1,1 +1,1 @@
-# This is a Quiz app using Open-trivia DB APIs
+# This is a Quiz app using Open-trivia DB API
